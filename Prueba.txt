@@ -1,0 +1,54 @@
+<html>
+<head>
+<title> Josué Ismael Camey Velásquez 202102427 </title>
+</head>
+
+<body bgcolor="#d7ca93" text="black">
+<h2>Universidad de San Carlos de Guatemala</h2>
+<h3>Ingeniería en Ciencias y Sistemas</h3>
+<h3>Laboratorio IPC 1</h3>
+<h3>Auxiliar: Hector Orozco</h3>
+<center><table border="2"></center>
+<tr>
+<td><font face="Impact"> Curso </font></td<h2>
+<td><font face="Impact"> Semestre </font></td>
+</tr>
+
+<tr>
+<td><font color="#2032ee" face=Georgia> Mate Intermedia 3 </font></td>
+<td><font color="#058f8f" face=Georgia> Cuarto Semestre </font></td>
+</tr>
+
+<tr>
+<td><font color="#2032ee"> Física 1 </font></td>
+<td><font color="#058f8f" face=Georgia> Tercer Semestre </font></td>
+</tr>
+
+<tr>
+<td><font color="#2032ee"> Laboratorio Física 1 </font></td>
+<td><font color="#058f8f" face=Georgia> Tercer Semestre </font></td>
+</tr>
+
+<tr>
+<td><font color="#2032ee"> IPC 1 </font></td>
+<td><font color="#058f8f" face=Georgia> Tercer Semestre </font></td>
+</tr>
+
+<tr>
+<td><font color="#2032ee"> Lab IPC 1 </font></td>
+<td><font color="#058f8f" face=Georgia> Tercer Semestre </font></td>
+</tr>
+
+<tr>
+<td><font color="#2032ee"> Lógica de Sistemas </font></td>
+<td><font color="#058f8f" face=Georgia> Tercer Semestre </font></td>
+</tr>
+
+<tr>
+<td><font color="#2032ee"> Mate para Compu 1 </font></td>
+<td><font color="#058f8f" face=Georgia> Tercer Semestre </font></td>
+</tr>
+
+</table>
+</body>
+</html>
